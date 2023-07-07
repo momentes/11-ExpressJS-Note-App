@@ -2,7 +2,6 @@ const express = require("express");
 const app = express();
 const path = require("path");
 const fs = require("fs");
-const uuid = require("uuid");
 
 const PORT = process.env.PORT || 3000;
 
@@ -33,7 +32,6 @@ app.post("/api/notes", function (req, res) {
     if (err) throw err;
     const notes = JSON.parse(data);
     const newNote = req.body;
-    newNote.id = uuid.v4();
     notes.push(newNote);
 
     const createNote = JSON.stringify(notes);

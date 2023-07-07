@@ -44,7 +44,7 @@ to start the server.
 Then enter
 
 ```
-http://localhost:3001/
+http://localhost:3000/
 ```
 
 on your browser
