@@ -57,7 +57,6 @@ https://github.com/momentes/11-ExpressJS-Note-App
 **Screenshot**
 
 <img src="public/assets/Images/Note-Taker-App-Home.png" width=85%>
-
 <img src="public/assets/Images/Note-Taker-App-Notes.png" width=85%>
 
 # License
