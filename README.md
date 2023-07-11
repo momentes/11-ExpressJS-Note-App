@@ -60,9 +60,9 @@ https://github.com/momentes/11-ExpressJS-Note-App
 
 **Screenshot**
 
-<img src="public/assets/Images/Note-Taker-App-Home.png" width=85%>
+<img src="public/assets/images/Note-Taker-App-Home.png" width=85%>
 
-<img src="public/assets/Images/Note-Taker-App-Notes.png" width=85%>
+<img src="public/assets/images/Note-Taker-App-Notes.png" width=85%>
 
 # License
 
@@ -73,4 +73,4 @@ https://github.com/momentes/11-ExpressJS-Note-App
 
 Thank you
 End.        
-<img src="public/assets/Images/business-cat1.jpg" width=15%>
+<img src="public/assets/images/business-cat1.jpg" width=15%>
